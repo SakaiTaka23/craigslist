@@ -7,6 +7,9 @@ verify_ssl = true
 
 [packages]
 django = "*"
+bs4 = "*"
+requests = "*"
+autopep8 = "*"
 
 [requires]
 python_version = "3.8"
